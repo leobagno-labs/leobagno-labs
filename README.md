@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my TodoList in javascript.
+- 🔭 I’m currently working on my Infrastructure Projects.
 - 🌱 I’m currently learning C#, GraphQL, and Machine Learning.
 - 📫 How to reach me: #bagnoLeo on github or [bagnoleonardo@gmail.com]
 <!--
